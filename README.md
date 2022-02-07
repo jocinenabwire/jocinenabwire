@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking forward to collaborate on Data Science Projects.
 - 📫 How to reach me: jocinenabwire@gmail.com
